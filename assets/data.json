@@ -26,13 +26,13 @@
  },
  "lc": {
   "solved": {
-   "All": 380,
+   "All": 381,
    "Easy": 93,
    "Medium": 226,
-   "Hard": 61
+   "Hard": 62
   },
   "streak": 27,
-  "active_days": 158,
+  "active_days": 159,
   "badges": [
    {
     "name": "100 Days Badge 2026",
@@ -1914,7 +1914,7 @@
    [
     "2026-11-17",
     1,
-    1
+    2
    ]
   ],
   "repos": 6,
