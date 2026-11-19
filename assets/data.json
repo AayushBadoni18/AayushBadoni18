@@ -22,17 +22,17 @@
    1427
   ],
   "best_rank": 2032,
-  "solved": 412
+  "solved": 417
  },
  "lc": {
   "solved": {
-   "All": 381,
+   "All": 387,
    "Easy": 93,
-   "Medium": 226,
+   "Medium": 232,
    "Hard": 62
   },
   "streak": 27,
-  "active_days": 159,
+  "active_days": 160,
   "badges": [
    {
     "name": "100 Days Badge 2026",
@@ -1918,13 +1918,18 @@
    ],
    [
     "2026-11-18",
-    0,
-    0
+    1,
+    4
+   ],
+   [
+    "2026-11-19",
+    2,
+    18
    ]
   ],
   "repos": 6,
   "langs": {
-   "C++": 93335,
+   "C++": 96380,
    "Java": 196,
    "Python": 206572,
    "JavaScript": 139654,
