@@ -16,9 +16,9 @@
 
 <p align="center">
 <img src="assets/h-cp.svg" width="830" alt="Competitive Programming"><br>
-<a href="https://codeforces.com/profile/AayushBadoni2005"><img src="assets/cp-codeforces.svg" width="830" alt="Codeforces: Specialist, current rating 1427, peak 1427, 17 rated contests, 417 problems solved, with a rating graph."></a><br>
-<a href="https://leetcode.com/u/AayushBadoni2005/"><img src="assets/cp-leetcode.svg" width="490" alt="LeetCode: 387 problems solved (93 easy, 232 medium, 62 hard), 3 badges."></a><a href="https://www.hackerrank.com/profile/AayushBadoni2005"><img src="assets/cp-hackerrank.svg" width="340" alt="HackerRank: 6-star in Problem Solving."></a><br>
-<a href="https://www.codechef.com/users/aayushbadoni18"><img src="assets/cp-codechef.svg" width="490" alt="CodeChef: rating 1691, 3-star, with a rating graph over 4 rated contests."></a><img src="assets/cp-total.svg" width="340" alt="Across platforms: 825 problems solved, 21 rated contests.">
+<a href="https://codeforces.com/profile/AayushBadoni2005"><img src="assets/cp-codeforces.svg" width="830" alt="Codeforces: Specialist, current rating 1427, peak 1427, 17 rated contests, 420 problems solved, with a rating graph."></a><br>
+<a href="https://leetcode.com/u/AayushBadoni2005/"><img src="assets/cp-leetcode.svg" width="490" alt="LeetCode: 391 problems solved (93 easy, 235 medium, 63 hard), 3 badges."></a><a href="https://www.hackerrank.com/profile/AayushBadoni2005"><img src="assets/cp-hackerrank.svg" width="340" alt="HackerRank: 6-star in Problem Solving."></a><br>
+<a href="https://www.codechef.com/users/aayushbadoni18"><img src="assets/cp-codechef.svg" width="490" alt="CodeChef: rating 1691, 3-star, with a rating graph over 4 rated contests."></a><img src="assets/cp-total.svg" width="340" alt="Across platforms: 832 problems solved, 21 rated contests.">
 </p>
 
 <p align="center">
